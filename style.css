@@ -344,14 +344,14 @@ img{
 .download-text{
     margin: 20px;
     color: white;
-    font-size: 10px;
+    font-size: 8px;
 }
 .download-text ul li nav{
-    font-size: 15px;
+    font-size: 10px;
     font-weight: bold;
 }
 .download-text ol li nav{
-    font-size: 15px;
+    font-size: 10px;
     font-weight: bold;
 }
 
