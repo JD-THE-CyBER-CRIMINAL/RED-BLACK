@@ -344,6 +344,7 @@ img{
 .download-text{
     margin: 20px;
     color: white;
+    font-size: 15px;
 }
 .download-text ul li nav{
     font-size: 25px;
